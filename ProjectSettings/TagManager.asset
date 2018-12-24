@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TalkTrig
+  - Dialogue
+  - Jukebox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 127640025
+    locked: 0
+  - name: BG2
+    uniqueID: 1550082069
+    locked: 0
+  - name: BottomTab
+    uniqueID: 2809777805
+    locked: 0
+  - name: MidTab
+    uniqueID: 3695347245
+    locked: 0
+  - name: Pawns
+    uniqueID: 133395005
+    locked: 0
+  - name: TopTab
+    uniqueID: 487598665
+    locked: 0
+  - name: Props
+    uniqueID: 944622287
+    locked: 0
