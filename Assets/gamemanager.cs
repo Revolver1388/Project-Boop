@@ -50,7 +50,7 @@ public class gamemanager : MonoBehaviour {
                 end();
                 break;
         }
-        if (Input.GetKeyDown(KeyCode.P))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (currentState == GameState.play)
             {

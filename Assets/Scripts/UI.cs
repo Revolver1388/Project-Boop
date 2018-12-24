@@ -6,7 +6,7 @@ public class UI : MonoBehaviour
 {
     //UI ELEMENTS
     public GameObject drunkMeter;
-
+    public GameObject pause;
 
     //TIMER VARIABLES
     private int timeLeft = 3;
